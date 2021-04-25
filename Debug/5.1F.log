@@ -1,0 +1,5 @@
+﻿  Source.cpp
+Z:\university\ооп\програми\5.1F\Number.h(23,88): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+Z:\university\ооп\програми\5.1F\RealStep.h(25,84): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+Z:\university\ооп\програми\5.1F\Source.cpp(36,7): warning C4101: result2: неиспользованная локальная переменная
+  5.1F.vcxproj -> Z:\university\ооп\програми\5.1F\Debug\5.1F.exe
